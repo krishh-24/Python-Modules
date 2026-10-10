@@ -7,10 +7,10 @@
 
 message = "hello python"
 
-print(message.find("python")) # it will shows you 6 num coz python statrts at 6 index in string.
+print(message.find("python")) # it will shows you 6 num coz python starts at 6 index in string.
 print(message.find("world")) # it will shows you -1 because hello python does not have world in string
 
 # index(): 
 
-print(message.index("python"))
-print(message.index("world"))
+print(message.index("python")) #it will shows you 6 num coz python starts at 6 index in string.
+print(message.index("world")) #it will gives you value error that substring not found
