@@ -19,4 +19,8 @@ total = price / quantity
 
 print(total)
 
+
 #Python cannot divide a string by an integer. The backend expects a numeric price, but it receives text. to fix this convert string into integer.
+
+#Python cannot divide a string by an integer. The backend expects a numeric price, but it receives text. to fix this convert string into integer.
+

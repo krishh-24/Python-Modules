@@ -16,3 +16,5 @@ print(list1 is list2) # in this it will check memory location of the both list e
 #Con: ( = ) : is used for assigning some values to the variable 
 # ( == ): checks for value equality in two variables, 
 # while ( is ) checks for object identity.
+
+
