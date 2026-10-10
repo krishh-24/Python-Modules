@@ -1,7 +1,11 @@
 #Create a string s = "hello". Try to change s[0] = "H" — capture and print the error. Explain why strings are immutable in Python.
 
 # In Python, strings are immutable, meaning their characters cannot be changed after the string is created.
-# #it wiill show you type-error
+
+s = "krish"
+s[0] = "i"
+
+print(s) #it wiill show you type-error
 
 # Cannot modify individual characters: s[0] = "i" raises a TypeError because string characters cannot be reassigned.
 
@@ -11,8 +15,5 @@
 s = "krish"
 s = "i" + s[1:]
 
-a = "pyhton"
-a = "b" + a[3:5]
-print(a)
 
 print(s)
