@@ -22,3 +22,6 @@ age = 20
 
 print(f"My name is {name} and I am {age} years old also my salary is {salary}")
 
+# conclusion: In Python, f-strings are preferred because they are easy to read, simple to write, and usually faster than older string formatting methods.
+
+# An f-string is a string that starts with the letter f and lets you put variables or expressions inside {}
