@@ -13,7 +13,7 @@ print(a is b)
 
 #Larger Integers:
 
-a = int("1000") #coverts str into int
+a = int("1000") #coverts str into int - type casting
 b = int("1000")
 
 print("Id of A: ",id(a))
